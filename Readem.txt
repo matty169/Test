@@ -1,3 +1,6 @@
 This is a test for the first line of git
 
 Now i can add something to this new dev 2 branch
+
+master switch
+
