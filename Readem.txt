@@ -4,3 +4,4 @@ Now i can add something to this new dev 2 branch
 
 master switch
 
+i can edi thtis stuff on git itself and it wont complain. This simulates antoehr person who has developed more into this model tahn i have :)
